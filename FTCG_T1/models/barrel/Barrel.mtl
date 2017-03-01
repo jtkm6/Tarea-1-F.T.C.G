@@ -1,0 +1,13 @@
+# Exported from 3D Builder
+
+newmtl Liege
+Kd 1.000000 1.000000 1.000000
+map_Kd liege.jpg
+
+newmtl Metal
+Kd 1.000000 1.000000 1.000000
+map_Kd metal.jpg
+
+newmtl Wood
+Kd 1.000000 1.000000 1.000000
+map_Kd wood.jpg

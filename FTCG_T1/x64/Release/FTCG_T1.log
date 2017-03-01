@@ -1,0 +1,10 @@
+﻿  FTCG_T1.cpp
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\minwindef.h(130): warning C4005: 'APIENTRY': redefinición de macro
+  C:\Users\jtkm6\Documents\Visual Studio 2015\Projects\FTCG_T1\FTCG_T1\dependencies\GLFW_WIN64\include\GLFW/glfw3.h(98): note: vea la definición anterior de 'APIENTRY'
+LINK : warning LNK4098: la biblioteca predeterminada'LIBCMT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  Generando código
+  All 926 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+glew32s.lib(glew.obj) : warning LNK4099: no se encontró PDB 'vc120.pdb' con 'glew32s.lib(glew.obj)' o en 'C:\Users\jtkm6\Documents\Visual Studio 2015\Projects\FTCG_T1\x64\Release\vc120.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  FTCG_T1.vcxproj -> C:\Users\jtkm6\Documents\Visual Studio 2015\Projects\FTCG_T1\x64\Release\FTCG_T1.exe
+  FTCG_T1.vcxproj -> C:\Users\jtkm6\Documents\Visual Studio 2015\Projects\FTCG_T1\x64\Release\FTCG_T1.pdb (Full PDB)
